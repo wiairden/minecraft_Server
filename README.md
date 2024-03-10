@@ -39,3 +39,6 @@ java -version
 ```
 ## 2. 安装msc面板  
 ### 安装14.17.0 以上的NODEJS
+```
+apt-get install nodejs
+```
