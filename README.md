@@ -42,3 +42,16 @@ java -version
 ```
 apt-get install nodejs
 ```
+### Linux一行命令快速安装
+
+// 国内专用 gitee 加速源
+```
+wget -qO- https://gitee.com/mcsmanager/script/raw/master/setup_cn.sh | bash
+```
+// 原始源（科学上网）
+```
+wget -qO- https://raw.githubusercontent.com/mcsmanager/Script/master/setup.sh | bash
+```
+脚本适用于 x86_64 架构 Ubuntu/Centos/Debian/Archlinux 系统
+执行完成后，使用 systemctl start mcsm-{web,daemon} 即可启动面板服务。
+面板代码与运行环境自动安装在 /opt/ 目录下。
