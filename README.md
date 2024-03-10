@@ -62,7 +62,8 @@ mkdir /opt/mcsmanager/
 cd /opt/mcsmanager/
 
 ### 下载MCSManager
-wget https://github.com/MCSManager/MCSManager/releases/latest/download/mcsmanager_linux_release.tar.gz
+wget https://github.com/MCSManager/MCSManager/releases/latest/download/mcsmanager_linux_release.tar.gz  
+
 tar -zxf mcsmanager_linux_release.tar.gz
 
 
