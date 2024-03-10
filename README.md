@@ -36,4 +36,5 @@ ln -s /usr/local/java/jdk1.8.0_261/bin/java /usr/bin/java
 ### 测试是否安装正常，显示 java version "1.8.0_261" 则为正常
 ```
 java -version
-```W
+```
+## 2. 安装msc面板
