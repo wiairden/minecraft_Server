@@ -73,3 +73,7 @@ tar -zxf mcsmanager_linux_release.tar.gz
 ```
 你的java路径/bin/java -jar 你的服务器jar文件名称.jar nogui
 ```
+### foege安装参考
+```
+https://www.rainyun.com/docs/guide/Minecraft/mc-forge/
+```
