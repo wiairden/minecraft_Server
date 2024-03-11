@@ -59,7 +59,7 @@ tar -zxf mcsmanager_linux_release.tar.gz
 ```
 ./install-dependency.sh
 ```
-
+### 3. 启动mcs面板
 ### 请打开两个终端或屏幕
 # 启动守护进程
 ```
@@ -68,4 +68,8 @@ tar -zxf mcsmanager_linux_release.tar.gz
 ### 启动面板前端(在第二个终端)
 ```
 ./start-web.sh
+```
+### 启动命令为:
+```
+你的java路径/bin/java -jar 你的服务器jar文件名称.jar nogui
 ```
